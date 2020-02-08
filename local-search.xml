@@ -8,7 +8,7 @@
     <link href="/2020/02/08/hello-world/"/>
     <url>/2020/02/08/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>#你有没有对不起一些人？</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="你有没有对不起一些人？"><a href="#你有没有对不起一些人？" class="headerlink" title="你有没有对不起一些人？"></a>你有没有对不起一些人？</h1>        <div id="aplayer-NYyYUnIp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-NYyYUnIp"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "芬芳之旅",              author: "侃侃",              url: "/mp3/chuanguoshengmingsanfadefenfang.m4a",              pic: "/img/ffzl.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
     
     
     
